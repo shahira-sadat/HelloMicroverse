@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
+
 # Hello Microverse
 
 > This is a simple Hello Microverse Project.
